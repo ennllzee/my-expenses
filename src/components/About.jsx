@@ -17,7 +17,7 @@ export default function About() {
               </td>
             </tr></table>
             <br/>
-            <Link to="/lab8-expense/">
+            <Link to="/my-expenses/">
               <h3>
                 <button type="button" className="btn btn-primary">Home</button>
               </h3>
